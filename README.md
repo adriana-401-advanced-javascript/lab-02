@@ -14,7 +14,7 @@ faker
 jest
 
 ##### Good use of code
-
+None...
 
 #### Running the app
 * `node objects/index.js`
@@ -24,9 +24,9 @@ jest
 * How do you run tests?
   * `npm test`
 * What assertions were made?
-  * 
+  * Part 1
 * What assertions need to be / should be made?
-  * 
+  * Part 2 still needs to be done
 
 #### UML
 ![Picture](file.png "VSC Screenshot")
