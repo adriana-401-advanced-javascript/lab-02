@@ -1,0 +1,26 @@
+{
+  "name": "lab-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --verbose --coverage",
+    "lint": "eslint **/*.js/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriana-401-advanced-javascript/lab-02.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adriana-401-advanced-javascript/lab-02/issues"
+  },
+  "homepage": "https://github.com/adriana-401-advanced-javascript/lab-02#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "faker": "^4.1.0",
+    "jest": "^24.8.0"
+  }
+}
