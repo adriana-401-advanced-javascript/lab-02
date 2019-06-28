@@ -5,8 +5,8 @@
 ### Author: Adriana Graybill
 
 ### Links and Resources
-* [submission PR](https://github.com/adriana-401-advanced-javascript/lab-02/pull/1)
-* [Travis][![Build Status](https://travis-ci.com/adriana-401-advanced-javascript/lab-01.svg?branch=master)](https://travis-ci.com/adriana-401-advanced-javascript/lab-02)
+* [submission PR](https://github.com/adriana-401-advanced-javascript/lab-02/pull/2)
+* [![Build Status](https://travis-ci.com/adriana-401-advanced-javascript/lab-01.svg?branch=master)](https://travis-ci.com/adriana-401-advanced-javascript/lab-02)
 
 ### Technology and Libraries Used
 eslint
